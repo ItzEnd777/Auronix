@@ -32,7 +32,7 @@ These Terms of Service govern the use of the Auronix Discord bot ("Auronix") and
 
 1. **No Warranty**: Auronix is provided "as is," with no warranties, expressed or implied, regarding its performance, reliability, or fitness for a particular purpose.
 
-2. **Indemnification**: You agree to indemnify and hold the developer harmless from any claims, damages, losses, or liabilities arising from your use of Excel.
+2. **Indemnification**: You agree to indemnify and hold the developer harmless from any claims, damages, losses, or liabilities arising from your use of Auronix.
 
 ## Miscellaneous
 
